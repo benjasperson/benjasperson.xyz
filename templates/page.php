@@ -20,7 +20,7 @@
 		  echo "<li ".getClassText(1)."><a href=\"{$pathToHome}professional.php\">PROFESSIONAL</a></li>";
 		  echo "<li ".getClassText(2)."><a href=\"{$pathToHome}personal.php\">PERSONAL</a></li>";
 		  echo "<li ".getClassText(3)."><a href=\"{$pathToHome}favorites.php\">FAVORITES</a></li>";
-		  echo "<li ".getClassText(4)."><a href=\"{$pathToHome}contact.php\">CONTACT ME</a></li>";
+		  //echo "<li ".getClassText(4)."><a href=\"{$pathToHome}contact.php\">CONTACT ME</a></li>";
 		?>
 	  </ul>
 	</nav>
