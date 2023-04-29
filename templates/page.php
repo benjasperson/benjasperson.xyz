@@ -32,6 +32,6 @@
 	  </div>
 	</div>
 	<?php include "{$pathToHome}templates/footer.php"; ?>
-	<?php echo "<script src=\"{$pathToHome}other.js\"></script>"; ?>
+	<center>This page was last updated: 2023/04/29</center>
   </body>
 </html>
